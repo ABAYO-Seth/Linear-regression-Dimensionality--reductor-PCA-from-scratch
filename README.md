@@ -1,1 +1,1 @@
-# Linear-regression-Dimensionality--reductor-PCA-from-scratch
+# Linear-regression-Dimensionality-reductor-PCA-from-scratch
